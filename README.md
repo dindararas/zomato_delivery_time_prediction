@@ -1,6 +1,6 @@
 # ZOMATO DELIVERY TIME PREDICTION
 ## 🛵PROBLEM STATEMENT
-Zomato is India's #1 food delivery app with market share in India reaching 58% in Q1 2025. While Swiggly - main competitor - offers 10-minute food delivery service,  this company has been struggling with delivery time. In 2022, customers had to wait for more than 25 minutes to get their food. This could led to customer dissatisfaction and increases the risk of customer churn.
+Zomato is India's #1 food delivery app with market share in India reaching 58% in Q1 2025. While Swiggly - main competitor - offers 10-minute food delivery service,  this company has been struggling with delivery time. In 2022, customers had to wait for more than 25 minutes to get their food. This could led to customer dissatisfaction and increases the risk of customer churn. Check streamlit [here](https://dindararas-zomato-delivery-time-prediction-app-t9er5m.streamlit.app/)
 
 ## 🎯 OBJECTIVES
 This project aims to :
