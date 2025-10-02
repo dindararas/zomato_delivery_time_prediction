@@ -38,6 +38,7 @@ Features overview :
 ## 🔎 KEY FINDINGS
 ### Delivery Time
 <img width="298" height="212" alt="image" src="https://github.com/user-attachments/assets/0037b4c0-e0e9-44d5-9e79-afc4d550e4be" />
+
 **Insights :**
 1. Overall, **delivery person riding a motorcyle took longer time to deliver food regardless road traffic conditions**
 2. During traffic jam, bicycle is the best option as vehicle for delivery. On average, bicycle deliveries took 24.7 minutes in traffic jams compared to 28–32 minutes for other vehicles. This is likely due to the flexibility of bicycle to navigate tight spaces and its ability to access certain streets that may be restricted for motorcycles (e.g. bike paths)
@@ -45,6 +46,7 @@ Features overview :
 
 ### Peak Traffic & Peak Orders
 <img width="553" height="182" alt="image" src="https://github.com/user-attachments/assets/0f9d3013-a102-4079-b751-116befee380c" />
+
 **Insights :**
 1. The peak ordering hours occur at 19.00 and 22.00. Since the high probability of traffic jam also occurred at 19.00, it could lead to delivery issues
 2. Number of orders increases in the evening. This makes sense because most of people have finished their day and spend their time with family or friends. Ordering food for dinner becomes a natural part of this routine
@@ -52,6 +54,7 @@ Features overview :
 ## 🤖 PREDICTION MODEL
 ### Model Comparison
 <img width="546" height="182" alt="image" src="https://github.com/user-attachments/assets/36dbb80e-698d-47c6-b8ec-6fee02826951" />
+
 **Insights :**
 1. Random Forest and Decision Tree are overfitting to the training data, shown by large gap between RMSE training and testing data
 2. Although Linear Regression good for data generalization, this model is possibly underfitting
@@ -59,6 +62,7 @@ Features overview :
 
 ### Hyperparameter Tuning
 <img width="268" height="155" alt="image" src="https://github.com/user-attachments/assets/c9b19879-bfe2-44f4-ade7-3e669de4669c" />
+
 **Insights:**
 Hyperparameter tuning has improved LightGBM performance while making it not overfitting
 
